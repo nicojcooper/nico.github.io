@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a fourth year PhD student in high energy theoretical physics, working with Prof. Al Shapere. 
 
-### More Information
+My research involves conformal field theory, the field that governs many phase transitions in statistical physics, and is a crucial ingredient in the AdS/CFT correspondence, which allows us to describe toy models of quantum gravity using conformal field theory in one dimension lower (known as the holographic principle). 
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently I am working on broadly understanding the emergence of theories that mimic quantum gravity in AdS3, despite the current absence of a complete holographic theory of pure gravity in this setting. 
 
-### Contact me
+In the past, I have worked on projects involving integrable hierarchies, N=4 supersymmetric Yang-Mills theory, asymptotic symmetries in flat space QED, and machine learning applied to particle physics at CERN.
 
-[email@domain.com](mailto:email@domain.com)
+Outside of physics, I have a lifelong love of theory, be it in math, jazz piano, gender theory, or social justice. Feel free to ask me about my interests and background!
