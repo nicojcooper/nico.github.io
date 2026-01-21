@@ -12,4 +12,4 @@ Currently I am working on broadly understanding the emergence of theories that m
 
 In the past, I have worked on projects involving integrable hierarchies, N=4 supersymmetric Yang-Mills theory, asymptotic symmetries in flat space QED, and machine learning applied to particle physics at CERN.
 
-Outside of physics, I have a lifelong love of theory, be it in math, jazz piano, gender theory, or social justice. Feel free to ask me about my interests and background!
+Outside of physics, I have a lifelong love of theory, be it in math, jazz piano, gender theory, or social justice. Feel free to ask!
