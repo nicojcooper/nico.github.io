@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aboutier
-permalink: \Aboutier\
+title: About more
+permalink: \About more\
 ---
 
 Unlike many people in my field, my background is pretty far from academia. I grew up in a small, relatively poor family, and went to a decent public high school in Louisville, Kentucky. I deeply love my family, and they and my high school are the reason that I remain an artist as well as a physicist (check out my art on this site if I've gotten to updating it!), but this upbringing paled in comparison to the preparation of my peers at Princeton, where I learned about Olympiads by meeting medalists. Early on in my undergrad education, I had many experiences of TAs and peers being downright confused by how much I didn't know when I asked for help. I then decided to work on my own to review the things I didn't know so that I'd be up to speed when I go to ask for help. Little did I know that that's a great strategy for getting C's, and you can spend an entire undergrad doing this. Lesson learned. 
